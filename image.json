@@ -1,0 +1,7 @@
+{
+  "prompt": "Metaphor A: The Dissolving Map. A physical, paper map of a coastal city where the ink isn't just smudging—it’s physically melting into the rising water, and the names of streets are being washed away into nothingness.",
+  "model": "Gemini 3 Flash Image",
+  "dataset_name": "IDMC Global Internal Displacement",
+  "dataset_url": "https://www.internal-displacement.org/global-report/grid2023/",
+  "insight": "Millions of people aren't just "moving"—they are being erased from their maps by water or heat."
+}
